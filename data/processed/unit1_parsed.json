@@ -1,0 +1,941 @@
+[
+  {
+    "id": "u1_001",
+    "word": "calligraphy",
+    "ipa": "/kəˈlɪɡrəfi/",
+    "pos": "n.",
+    "cn": "书法；书法艺术",
+    "example_en": "Chinese calligraphy is a beautiful art form.",
+    "example_zh": "中国书法是一种美丽的艺术形式。",
+    "visual_syllables": [
+      "cal",
+      "li",
+      "gra",
+      "phy"
+    ],
+    "phonetic_parts": "c a ll i g r a ph y",
+    "collocations": [
+      "Chinese calligraphy (中国书法)",
+      "modern calligraphy (现代书法)",
+      "calligraphy art (书法艺术)"
+    ]
+  },
+  {
+    "id": "u1_002",
+    "word": "ski",
+    "ipa": "/skiː/",
+    "pos": "n.",
+    "cn": "滑雪板；v. 滑雪",
+    "example_en": "We ski down the snowy hill.",
+    "example_zh": "我们从雪山上滑下来。",
+    "visual_syllables": [
+      "ski"
+    ],
+    "phonetic_parts": "sk i",
+    "collocations": [
+      "ski resort (滑雪胜地)",
+      "ski slope (滑雪坡)",
+      "water ski (水橇)"
+    ]
+  },
+  {
+    "id": "u1_003",
+    "word": "program",
+    "ipa": "/ˈprəʊɡræm/",
+    "pos": "n.",
+    "cn": "程序；v. 编程",
+    "example_en": "I wrote a simple program to draw a star.",
+    "example_zh": "我写了一个简单的程序来画星星。",
+    "visual_syllables": [
+      "pro",
+      "gram"
+    ],
+    "phonetic_parts": "pr o gr a m",
+    "collocations": [
+      "computer program (计算机程序)",
+      "television program (电视节目)",
+      "exercise program (锻炼计划)"
+    ]
+  },
+  {
+    "id": "u1_004",
+    "word": "express",
+    "ipa": "/ɪkˈspres/",
+    "pos": "v.",
+    "cn": "表达；n. 快车",
+    "example_en": "She can express her feelings with a smile.",
+    "example_zh": "她能用微笑表达自己的感受。",
+    "visual_syllables": [
+      "ex",
+      "press"
+    ],
+    "phonetic_parts": "e x pr e ss",
+    "collocations": [
+      "express oneself (表达自己)",
+      "express delivery (快 递)",
+      "express train (快车)"
+    ]
+  },
+  {
+    "id": "u1_005",
+    "word": "instructor",
+    "ipa": "/ɪnˈstrʌktə/",
+    "pos": "n.",
+    "cn": "教练；导师",
+    "example_en": "Our swimming instructor is very kind.",
+    "example_zh": "我们的游泳教练非常和蔼。",
+    "visual_syllables": [
+      "in",
+      "struc",
+      "tor"
+    ],
+    "phonetic_parts": "i n str u c t or",
+    "collocations": [
+      "driving instructor (驾驶教练)",
+      "fitness instructor (健 身教练)",
+      "ski instructor (滑雪教练)"
+    ]
+  },
+  {
+    "id": "u1_006",
+    "word": "scared",
+    "ipa": "/skeəd/",
+    "pos": "adj.",
+    "cn": "害怕的",
+    "example_en": "I felt scared during the thunderstorm.",
+    "example_zh": "雷雨时我感到害怕。",
+    "visual_syllables": [
+      "scared"
+    ],
+    "phonetic_parts": "sc ar e",
+    "collocations": [
+      "scared stiff (吓呆了)",
+      "scared to death (吓死了)",
+      "scared of heights (恐高)"
+    ]
+  },
+  {
+    "id": "u1_007",
+    "word": "scared of",
+    "ipa": "/skeəd ɒv/",
+    "pos": "adj.",
+    "cn": "害怕…的，恐惧…的",
+    "example_en": "The little boy is scared of the dark.",
+    "example_zh": "小男孩害怕黑暗。",
+    "visual_syllables": [],
+    "phonetic_parts": "",
+    "collocations": [
+      "scared (害怕的) + of (的) = 害怕的。"
+    ]
+  },
+  {
+    "id": "u1_008",
+    "word": "fear",
+    "ipa": "/fɪə(r)/",
+    "pos": "n.",
+    "cn": "害怕；v. 害怕",
+    "example_en": "I fear the dark, so I sleep with a night-light.",
+    "example_zh": "我害怕黑，所以开小夜灯睡觉。",
+    "visual_syllables": [
+      "fear"
+    ],
+    "phonetic_parts": "f ear",
+    "collocations": [
+      "fear of heights (恐高症)",
+      "fear of public speaking (害怕公开演讲)",
+      "no fear (别怕)"
+    ]
+  },
+  {
+    "id": "u1_009",
+    "word": "get over",
+    "ipa": "/ɡet ˈəʊvər/",
+    "pos": "v.",
+    "cn": "克服；恢复",
+    "example_en": "It took her a long time to get over the flu.",
+    "example_zh": "她花了很长时间才从流感中恢复过来。",
+    "visual_syllables": [],
+    "phonetic_parts": "",
+    "collocations": [
+      "get over a cold (战胜感冒)",
+      "get over a breakup (走 出分手阴影)",
+      "get over the shock (从震惊中恢复)"
+    ]
+  },
+  {
+    "id": "u1_010",
+    "word": "up to",
+    "ipa": "/ʌp tuː/",
+    "pos": "phr.",
+    "cn": "多达；取决于；胜任",
+    "example_en": "I can eat up to three ice creams.",
+    "example_zh": "我最多能吃三个冰淇淋。",
+    "visual_syllables": [],
+    "phonetic_parts": "",
+    "collocations": [
+      "up to date (最新的)",
+      "up to you (由你决定)",
+      "up to now (到目前为止)"
+    ]
+  },
+  {
+    "id": "u1_011",
+    "word": "poem",
+    "ipa": "/ˈpəʊɪm/",
+    "pos": "n.",
+    "cn": "诗",
+    "example_en": "I wrote a short poem about spring.",
+    "example_zh": "我写了一首关于春天的小诗。",
+    "visual_syllables": [
+      "po",
+      "em"
+    ],
+    "phonetic_parts": "p o e m",
+    "collocations": [
+      "write a poem (写诗)",
+      "short poem (短诗)",
+      "love poem (情诗)"
+    ]
+  },
+  {
+    "id": "u1_012",
+    "word": "single",
+    "ipa": "/ˈsɪŋɡəl/",
+    "pos": "adj.",
+    "cn": "单一的，独身的；n. 单曲，单人房",
+    "example_en": "I want a single scoop of ice cream.",
+    "example_zh": "我想要一勺冰淇淋。",
+    "visual_syllables": [
+      "sin",
+      "gle"
+    ],
+    "phonetic_parts": "s i n g l e",
+    "collocations": [
+      "想象你只有一个手指头(single finger)指着一样东 西。"
+    ]
+  },
+  {
+    "id": "u1_013",
+    "word": "stroke",
+    "ipa": "/strəʊk/",
+    "pos": "n.",
+    "cn": "游泳划水动作；轻抚；v. 轻抚",
+    "example_en": "One strong stroke and he swam forward.",
+    "example_zh": "一个有力的划水动作，他向前游去。",
+    "visual_syllables": [
+      "stroke"
+    ],
+    "phonetic_parts": "str o k e",
+    "collocations": [
+      "stroke of luck (好运)",
+      "heat stroke (中暑)",
+      "stroke someone's ego (满足某人的自尊心)"
+    ]
+  },
+  {
+    "id": "u1_014",
+    "word": "give up",
+    "ipa": "/ɡɪv ʌp/",
+    "pos": "v.",
+    "cn": "放弃",
+    "example_en": "Don't give up! I believe you can do it.",
+    "example_zh": "不要放弃！我相信你能做到的。",
+    "visual_syllables": [],
+    "phonetic_parts": "",
+    "collocations": [
+      "give up smoking (戒烟)",
+      "give up hope (放弃希望)",
+      "never give up (永不放弃)"
+    ]
+  },
+  {
+    "id": "u1_015",
+    "word": "ink",
+    "ipa": "/ɪŋk/",
+    "pos": "n.",
+    "cn": "墨水",
+    "example_en": "My pen has blue ink.",
+    "example_zh": "我的钢笔里是蓝色墨水。",
+    "visual_syllables": [
+      "ink"
+    ],
+    "phonetic_parts": "i nk",
+    "collocations": [
+      "black ink (黑色墨水)",
+      "ink pen (钢笔)",
+      "ink cartridge (墨盒)"
+    ]
+  },
+  {
+    "id": "u1_016",
+    "word": "return",
+    "ipa": "/rɪˈtɜːn/",
+    "pos": "v.",
+    "cn": "返回；归还；n. 返回",
+    "example_en": "Please return the book to the library.",
+    "example_zh": "请把书还回图书馆。",
+    "visual_syllables": [
+      "re",
+      "turn"
+    ],
+    "phonetic_parts": "r e t ur n",
+    "collocations": [
+      "return home (回家)",
+      "return a favor (回报恩情)",
+      "return policy (退货政策)"
+    ]
+  },
+  {
+    "id": "u1_017",
+    "word": "in return",
+    "ipa": "/ɪn rɪˈtɜːn/",
+    "pos": "phrase.",
+    "cn": "作为回报，作为交换",
+    "example_en": "She helped me, and in return, I helped her.",
+    "example_zh": "她帮助了我，作为回报，我帮助了她。",
+    "visual_syllables": [],
+    "phonetic_parts": "",
+    "collocations": [
+      "in (在…里) + return (返回) = 回报。"
+    ]
+  },
+  {
+    "id": "u1_018",
+    "word": "deal",
+    "ipa": "/diːl/",
+    "pos": "v.",
+    "cn": "处理；交易 / n. 交易，协议",
+    "example_en": "Let's deal the cards and start the game.",
+    "example_zh": "我们发牌开始游戏吧。",
+    "visual_syllables": [
+      "deal"
+    ],
+    "phonetic_parts": "d ea l",
+    "collocations": [
+      "deal with (处理)",
+      "big deal (了不起的事)",
+      "make a deal (达成协议)"
+    ]
+  },
+  {
+    "id": "u1_019",
+    "word": "manage",
+    "ipa": "/ˈmænɪdʒ/",
+    "pos": "v.",
+    "cn": "管理；设法完成",
+    "example_en": "My sister can manage her homework and piano lessons.",
+    "example_zh": "我姐姐能安排好作业和钢琴课。",
+    "visual_syllables": [
+      "man",
+      "age"
+    ],
+    "phonetic_parts": "m a n a g e",
+    "collocations": [
+      "manage to do (设法做到)",
+      "manage risk (管理风 险)",
+      "manage expectations (管理预期)"
+    ]
+  },
+  {
+    "id": "u1_020",
+    "word": "get into",
+    "ipa": "/ɡɛt ˈɪntuː/",
+    "pos": "phr.",
+    "cn": "进入，卷入；对…感兴趣",
+    "example_en": "Let's get into the car now.",
+    "example_zh": "我们现在上车吧。",
+    "visual_syllables": [],
+    "phonetic_parts": "",
+    "collocations": [
+      "get (得到) + into (进入) = 进入。"
+    ]
+  },
+  {
+    "id": "u1_021",
+    "word": "give it a go",
+    "ipa": "/ɡɪv ɪt ə ɡəʊ/",
+    "pos": "phrase.",
+    "cn": "尝试一下",
+    "example_en": "I'm not sure if I can do it, but I'll give it a go.",
+    "example_zh": "我不确定我是否能做到，但我会尝试一下。",
+    "visual_syllables": [],
+    "phonetic_parts": "",
+    "collocations": [
+      "give (给) + it (它) + a go (一次尝试) = 尝试一下。"
+    ]
+  },
+  {
+    "id": "u1_022",
+    "word": "kung fu",
+    "ipa": "/ˌkʌŋ ˈfuː/",
+    "pos": "n.",
+    "cn": "功夫，中国武术",
+    "example_en": "My brother is learning kung fu.",
+    "example_zh": "我的哥哥正在学习中国功夫。",
+    "visual_syllables": [],
+    "phonetic_parts": "",
+    "collocations": [
+      "kung fu master (功夫大师)",
+      "learn kung fu (学习功 夫)",
+      "practice kung fu (练习功夫)"
+    ]
+  },
+  {
+    "id": "u1_023",
+    "word": "push",
+    "ipa": "/pʊʃ/",
+    "pos": "v.",
+    "cn": "推",
+    "example_en": "Push the door to go inside.",
+    "example_zh": "把门推开走进去。",
+    "visual_syllables": [
+      "push"
+    ],
+    "phonetic_parts": "p u sh",
+    "collocations": [
+      "push the button (按按钮)",
+      "push forward (推进)",
+      "push one's luck (冒险)"
+    ]
+  },
+  {
+    "id": "u1_024",
+    "word": "myself",
+    "ipa": "/maɪˈself/",
+    "pos": "",
+    "cn": "",
+    "example_en": "I can tie my shoes by myself.",
+    "example_zh": "我自己会系鞋带。",
+    "visual_syllables": [
+      "my",
+      "self"
+    ],
+    "phonetic_parts": "m y s e l f",
+    "collocations": [
+      "by myself (独自)",
+      "hurt myself (伤到自己)",
+      "believe in myself (相信自己)"
+    ]
+  },
+  {
+    "id": "u1_025",
+    "word": "once in a while",
+    "ipa": "/wʌns ɪn ə waɪl/",
+    "pos": "phrase.",
+    "cn": "偶尔，有时",
+    "example_en": "I eat ice cream once in a while.",
+    "example_zh": "我偶尔吃冰淇淋。",
+    "visual_syllables": [],
+    "phonetic_parts": "",
+    "collocations": [
+      "once (一次) + in a while (在一段时间里) = 偶尔。"
+    ]
+  },
+  {
+    "id": "u1_026",
+    "word": "chat",
+    "ipa": "/tʃæt/",
+    "pos": "v.",
+    "cn": "& n. 聊天",
+    "example_en": "Let’s chat about our favorite cartoons.",
+    "example_zh": "我们来聊聊最喜欢的动画片吧。",
+    "visual_syllables": [
+      "chat"
+    ],
+    "phonetic_parts": "ch a t",
+    "collocations": [
+      "online chat (在线聊天)",
+      "live chat (实时聊天)",
+      "have a chat (闲聊)"
+    ]
+  },
+  {
+    "id": "u1_027",
+    "word": "outing",
+    "ipa": "/ˈaʊtɪŋ/",
+    "pos": "n.",
+    "cn": "短途旅行，远足",
+    "example_en": "We had a family outing to the park.",
+    "example_zh": "我们全家去公园进行了一次短途旅行。",
+    "visual_syllables": [
+      "out",
+      "ing"
+    ],
+    "phonetic_parts": "ou t i ng",
+    "collocations": [
+      "family outing (家庭郊游)",
+      "school outing (学校郊 游)",
+      "go on an outing (去郊游)"
+    ]
+  },
+  {
+    "id": "u1_028",
+    "word": "go on an outing",
+    "ipa": "/ɡəʊ ɒn æn ˈaʊtɪŋ/",
+    "pos": "phrase.",
+    "cn": "去郊游，去远足",
+    "example_en": "We will go on an outing to the park next week.",
+    "example_zh": "我们下周要去公园郊游。",
+    "visual_syllables": [],
+    "phonetic_parts": "",
+    "collocations": [
+      "go (去) + on an outing (一次外出) = 去郊游。"
+    ]
+  },
+  {
+    "id": "u1_029",
+    "word": "reduce",
+    "ipa": "/rɪˈdjuːs/",
+    "pos": "v.",
+    "cn": "减少，降低",
+    "example_en": "Turn off the lights to reduce electricity use.",
+    "example_zh": "关灯可以减少用电。",
+    "visual_syllables": [
+      "re",
+      "duce"
+    ],
+    "phonetic_parts": "r e d u c",
+    "collocations": [
+      "reduce costs (降低成本)",
+      "reduce pollution (减少污 染)",
+      "reduce stress (减轻压力)"
+    ]
+  },
+  {
+    "id": "u1_030",
+    "word": "stress",
+    "ipa": "/stres/",
+    "pos": "n.",
+    "cn": "压力；v. 使紧张",
+    "example_en": "Too much homework gives me stress.",
+    "example_zh": "太多作业让我有压力。",
+    "visual_syllables": [
+      "stress"
+    ],
+    "phonetic_parts": "str e ss",
+    "collocations": [
+      "job stress (工作压力)",
+      "financial stress (经济压 力)",
+      "stress management (压力管理)"
+    ]
+  },
+  {
+    "id": "u1_031",
+    "word": "yoga",
+    "ipa": "/ˈjəʊɡə/",
+    "pos": "n.",
+    "cn": "瑜伽",
+    "example_en": "Mom does yoga every morning.",
+    "example_zh": "妈妈每天早上做瑜伽。",
+    "visual_syllables": [
+      "yo",
+      "ga"
+    ],
+    "phonetic_parts": "y o g a",
+    "collocations": [
+      "yoga class (瑜伽课)",
+      "practice yoga (练习瑜伽)",
+      "yoga pose (瑜伽姿势)"
+    ]
+  },
+  {
+    "id": "u1_032",
+    "word": "object",
+    "ipa": "/ˈɒbdʒɪkt/",
+    "pos": "n.",
+    "cn": "物体；目标 v. 反对",
+    "example_en": "This round object is a ball.",
+    "example_zh": "这个圆形的物体是球。",
+    "visual_syllables": [
+      "ob",
+      "ject"
+    ],
+    "phonetic_parts": "o b j e c t",
+    "collocations": [
+      "object to (反对)",
+      "object lesson (实物教材)",
+      "inanimate object (无生命物体)"
+    ]
+  },
+  {
+    "id": "u1_033",
+    "word": "Italian",
+    "ipa": "/ɪˈtæliən/",
+    "pos": "adj.",
+    "cn": "意大利的，意大利人的；n. 意大利人，意大利",
+    "example_en": "Pizza is a famous Italian food.",
+    "example_zh": "披萨是一种著名的意大利食物。",
+    "visual_syllables": [
+      "I",
+      "tal",
+      "ian"
+    ],
+    "phonetic_parts": "I t a li a n",
+    "collocations": [
+      "意大利(Italy)的人就是Italian。"
+    ]
+  },
+  {
+    "id": "u1_034",
+    "word": "programmer",
+    "ipa": "/ˈprəʊɡræmə(r)/",
+    "pos": "n.",
+    "cn": "程序员",
+    "example_en": "My dad is a computer programmer.",
+    "example_zh": "我爸爸是一名电脑程序员。",
+    "visual_syllables": [],
+    "phonetic_parts": "",
+    "collocations": [
+      "program (程序) + -er (表示人) = 程序员。"
+    ]
+  },
+  {
+    "id": "u1_035",
+    "word": "allow",
+    "ipa": "/əˈlaʊ/",
+    "pos": "v.",
+    "cn": "允许",
+    "example_en": "Mom allows me to play after homework.",
+    "example_zh": "妈妈允许我做完作业再玩。",
+    "visual_syllables": [
+      "al",
+      "low"
+    ],
+    "phonetic_parts": "a ll ow",
+    "collocations": [
+      "allow access (允许访问)",
+      "allow time (留出时间)",
+      "allow for (考虑到)"
+    ]
+  },
+  {
+    "id": "u1_036",
+    "word": "sense",
+    "ipa": "/sens/",
+    "pos": "n.",
+    "cn": "感觉；意义；v. 感觉到",
+    "example_en": "Dogs have a good sense of smell.",
+    "example_zh": "狗的嗅觉很好。",
+    "visual_syllables": [
+      "sense"
+    ],
+    "phonetic_parts": "s e n s e",
+    "collocations": [
+      "common sense (常识)",
+      "sense of humor (幽默感)",
+      "make sense (有道理)"
+    ]
+  },
+  {
+    "id": "u1_037",
+    "word": "achievement",
+    "ipa": "/əˈtʃiːvmənt/",
+    "pos": "n.",
+    "cn": "成就；成绩",
+    "example_en": "Getting an A is a big achievement for me.",
+    "example_zh": "得A对我来说是个大成就。",
+    "visual_syllables": [
+      "a",
+      "chieve",
+      "ment"
+    ],
+    "phonetic_parts": "a ch ie v e",
+    "collocations": [
+      "great achievement (巨大成就)",
+      "academic achievement (学业成就)",
+      "sense of achievement (成就感)"
+    ]
+  },
+  {
+    "id": "u1_038",
+    "word": "coin",
+    "ipa": "/kɔɪn/",
+    "pos": "n.",
+    "cn": "硬币；v. 创造（新词）",
+    "example_en": "I found a shiny coin on the ground.",
+    "example_zh": "我在地上捡到一枚闪亮的硬币。",
+    "visual_syllables": [
+      "coin"
+    ],
+    "phonetic_parts": "c oi n",
+    "collocations": [
+      "coin a phrase (创造新词)",
+      "two sides of the same coin (一体两面)",
+      "counterfeit coin (伪币)"
+    ]
+  },
+  {
+    "id": "u1_039",
+    "word": "stamp",
+    "ipa": "/stæmp/",
+    "pos": "n.",
+    "cn": "邮票；v. 盖章",
+    "example_en": "Put a stamp on the envelope.",
+    "example_zh": "在信封上贴一张邮票。",
+    "visual_syllables": [
+      "stamp"
+    ],
+    "phonetic_parts": "st a mp",
+    "collocations": [
+      "postage stamp (邮票)",
+      "rubber stamp (橡皮图章)",
+      "stamp out (消除)"
+    ]
+  },
+  {
+    "id": "u1_040",
+    "word": "teenage",
+    "ipa": "/ˈtiːneɪdʒ/",
+    "pos": "adj.",
+    "cn": "青少年的",
+    "example_en": "My teenage sister loves pop music.",
+    "example_zh": "我十几岁的姐姐喜欢流行音乐。",
+    "visual_syllables": [
+      "teen",
+      "age"
+    ],
+    "phonetic_parts": "t ee n a g e",
+    "collocations": [
+      "teenage years (青少年时期)",
+      "teenage pregnancy (少女怀孕)",
+      "teenage angst (青少年焦虑)"
+    ]
+  },
+  {
+    "id": "u1_041",
+    "word": "postcard",
+    "ipa": "/ˈpəʊstkɑːd/",
+    "pos": "n.",
+    "cn": "明信片",
+    "example_en": "I sent a postcard from the beach.",
+    "example_zh": "我从海滩寄了一张明信片。",
+    "visual_syllables": [
+      "post",
+      "card"
+    ],
+    "phonetic_parts": "p o st c ar d",
+    "collocations": [
+      "send a postcard (寄明信片)",
+      "vintage postcard (老 式明信片)",
+      "souvenir postcard (纪念明信片)"
+    ]
+  },
+  {
+    "id": "u1_042",
+    "word": "rather",
+    "ipa": "/ˈrɑːðə/",
+    "pos": "adv.",
+    "cn": "相当；宁愿",
+    "example_en": "It's rather hot today.",
+    "example_zh": "今天相当热。",
+    "visual_syllables": [
+      "rath",
+      "er"
+    ],
+    "phonetic_parts": "r a th er",
+    "collocations": [
+      "rather than (而不是)",
+      "would rather (宁愿)",
+      "rather good (相当好)"
+    ]
+  },
+  {
+    "id": "u1_043",
+    "word": "old - fashioned",
+    "ipa": "/ˌəʊld ˈfæʃənd/",
+    "pos": "adj.",
+    "cn": "老式的，过时的",
+    "example_en": "My grandpa wears old-fashioned clothes.",
+    "example_zh": "我爷爷穿老式的衣服。",
+    "visual_syllables": [],
+    "phonetic_parts": "",
+    "collocations": [
+      "old (旧的) + fashioned (时尚的) = 旧时尚的，也就 是老式的。"
+    ]
+  },
+  {
+    "id": "u1_044",
+    "word": "foreign",
+    "ipa": "/ˈfɒrən/",
+    "pos": "adj.",
+    "cn": "外国的",
+    "example_en": "We learn foreign words in English class.",
+    "example_zh": "我们在英语课上学外国单词。",
+    "visual_syllables": [
+      "for",
+      "eign"
+    ],
+    "phonetic_parts": "f o r ei g",
+    "collocations": [
+      "foreign language (外语)",
+      "foreign country (外国)",
+      "foreign policy (外交政策)"
+    ]
+  },
+  {
+    "id": "u1_045",
+    "word": "dream of",
+    "ipa": "/driːm əv/",
+    "pos": "v.",
+    "cn": "梦想，渴望",
+    "example_en": "I dream of becoming a great painter.",
+    "example_zh": "我梦想成为一名伟大的画家。",
+    "visual_syllables": [],
+    "phonetic_parts": "",
+    "collocations": [
+      "dream of success (梦想成功)",
+      "dream of traveling (梦想旅行)",
+      "dream of a better future (梦想更美好的 未来)"
+    ]
+  },
+  {
+    "id": "u1_046",
+    "word": "suggestion",
+    "ipa": "/səˈdʒestʃən/",
+    "pos": "n.",
+    "cn": "建议，提议",
+    "example_en": "My teacher gave me a good suggestion for reading.",
+    "example_zh": "老师给了我一个阅读的好建议。",
+    "visual_syllables": [
+      "sug",
+      "ges",
+      "tion"
+    ],
+    "phonetic_parts": "s u gg e s ti o n",
+    "collocations": [
+      "make a suggestion (提出建议)",
+      "accept a suggestion (接受建议)",
+      "follow a suggestion (遵循 建议)"
+    ]
+  },
+  {
+    "id": "u1_047",
+    "word": "failure",
+    "ipa": "/ˈfeɪljə(r)/",
+    "pos": "n.",
+    "cn": "失败",
+    "example_en": "Every failure is a step to success.",
+    "example_zh": "每一次失败都是通向成功的一步。",
+    "visual_syllables": [
+      "fail",
+      "ure"
+    ],
+    "phonetic_parts": "f ai l ure",
+    "collocations": [
+      "complete failure (彻底失败)",
+      "business failure (商业 失败)",
+      "fear of failure (害怕失败)"
+    ]
+  },
+  {
+    "id": "u1_048",
+    "word": "inspire",
+    "ipa": "/ɪnˈspaɪə/",
+    "pos": "v.",
+    "cn": "鼓舞；激发灵感",
+    "example_en": "My teacher’s words inspire me to study hard.",
+    "example_zh": "老师的话鼓舞我努力学习。",
+    "visual_syllables": [
+      "in",
+      "spire"
+    ],
+    "phonetic_parts": "i n sp ir e",
+    "collocations": [
+      "inspire confidence (激发信心)",
+      "inspire creativity (激发创造力)",
+      "inspire hope (激发希望)"
+    ]
+  },
+  {
+    "id": "u1_049",
+    "word": "strict",
+    "ipa": "/strɪkt/",
+    "pos": "adj.",
+    "cn": "严格的",
+    "example_en": "Our teacher is strict about homework.",
+    "example_zh": "我们的老师对作业要求严格。",
+    "visual_syllables": [
+      "strict"
+    ],
+    "phonetic_parts": "str i ct",
+    "collocations": [
+      "strict rules (严格的规定)",
+      "strict parents (严格的父 母)",
+      "strict diet (严格的饮食)"
+    ]
+  },
+  {
+    "id": "u1_050",
+    "word": "surprisingly",
+    "ipa": "/səˈpraɪzɪŋli/",
+    "pos": "adv.",
+    "cn": "出乎意料地",
+    "example_en": "Surprisingly, the small boy won the race.",
+    "example_zh": "出乎意料地，小男孩赢得了比赛。",
+    "visual_syllables": [
+      "sur",
+      "pris",
+      "ing",
+      "ly"
+    ],
+    "phonetic_parts": "s ur pr i s ing l y",
+    "collocations": [
+      "surprisingly good (出奇的好)",
+      "surprisingly effective (出奇的有效)",
+      "surprisingly little (出奇的 少)"
+    ]
+  },
+  {
+    "id": "u1_051",
+    "word": "so far",
+    "ipa": "/səʊ fɑː(r)/",
+    "pos": "phrase.",
+    "cn": "到目前为止",
+    "example_en": "So far, I have finished two books.",
+    "example_zh": "到目前为止，我已经读完两本书了。",
+    "visual_syllables": [],
+    "phonetic_parts": "",
+    "collocations": [
+      "so (如此) + far (远) = 像走了很远，到现在为止。"
+    ]
+  },
+  {
+    "id": "u1_052",
+    "word": "stage",
+    "ipa": "/steɪdʒ/",
+    "pos": "n.",
+    "cn": "舞台；阶段",
+    "example_en": "I sing on the school stage.",
+    "example_zh": "我在学校舞台上唱歌。",
+    "visual_syllables": [
+      "stage"
+    ],
+    "phonetic_parts": "st a g e",
+    "collocations": [
+      "on stage (在舞台上)",
+      "stage fright (怯场)",
+      "set the stage (准备就绪)"
+    ]
+  },
+  {
+    "id": "u1_053",
+    "word": "importantly",
+    "ipa": "/ɪmˈpɔːtəntli/",
+    "pos": "adv.",
+    "cn": "重要地；尤其",
+    "example_en": "Most importantly, wash your hands before eating.",
+    "example_zh": "最重要的是，吃饭前要洗手。",
+    "visual_syllables": [
+      "im",
+      "por",
+      "tant",
+      "ly"
+    ],
+    "phonetic_parts": "i m p or t a nt l y",
+    "collocations": [
+      "more importantly (更重要的是)",
+      "most importantly (最重要的是)",
+      "importantly, consider (重要的是，考 虑)"
+    ]
+  }
+]

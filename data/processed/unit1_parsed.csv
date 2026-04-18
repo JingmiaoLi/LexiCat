@@ -1,0 +1,54 @@
+﻿id,word,ipa,pos,cn,example_en,example_zh,visual_syllables,phonetic_parts,collocations
+u1_001,calligraphy,/kəˈlɪɡrəfi/,n.,书法；书法艺术,Chinese calligraphy is a beautiful art form.,中国书法是一种美丽的艺术形式。,cal|li|gra|phy,c a ll i g r a ph y,Chinese calligraphy (中国书法)|modern calligraphy (现代书法)|calligraphy art (书法艺术)
+u1_002,ski,/skiː/,n.,滑雪板；v. 滑雪,We ski down the snowy hill.,我们从雪山上滑下来。,ski,sk i,ski resort (滑雪胜地)|ski slope (滑雪坡)|water ski (水橇)
+u1_003,program,/ˈprəʊɡræm/,n.,程序；v. 编程,I wrote a simple program to draw a star.,我写了一个简单的程序来画星星。,pro|gram,pr o gr a m,computer program (计算机程序)|television program (电视节目)|exercise program (锻炼计划)
+u1_004,express,/ɪkˈspres/,v.,表达；n. 快车,She can express her feelings with a smile.,她能用微笑表达自己的感受。,ex|press,e x pr e ss,express oneself (表达自己)|express delivery (快 递)|express train (快车)
+u1_005,instructor,/ɪnˈstrʌktə/,n.,教练；导师,Our swimming instructor is very kind.,我们的游泳教练非常和蔼。,in|struc|tor,i n str u c t or,driving instructor (驾驶教练)|fitness instructor (健 身教练)|ski instructor (滑雪教练)
+u1_006,scared,/skeəd/,adj.,害怕的,I felt scared during the thunderstorm.,雷雨时我感到害怕。,scared,sc ar e,scared stiff (吓呆了)|scared to death (吓死了)|scared of heights (恐高)
+u1_007,scared of,/skeəd ɒv/,adj.,害怕…的，恐惧…的,The little boy is scared of the dark.,小男孩害怕黑暗。,,,scared (害怕的) + of (的) = 害怕的。
+u1_008,fear,/fɪə(r)/,n.,害怕；v. 害怕,"I fear the dark, so I sleep with a night-light.",我害怕黑，所以开小夜灯睡觉。,fear,f ear,fear of heights (恐高症)|fear of public speaking (害怕公开演讲)|no fear (别怕)
+u1_009,get over,/ɡet ˈəʊvər/,v.,克服；恢复,It took her a long time to get over the flu.,她花了很长时间才从流感中恢复过来。,,,get over a cold (战胜感冒)|get over a breakup (走 出分手阴影)|get over the shock (从震惊中恢复)
+u1_010,up to,/ʌp tuː/,phr.,多达；取决于；胜任,I can eat up to three ice creams.,我最多能吃三个冰淇淋。,,,up to date (最新的)|up to you (由你决定)|up to now (到目前为止)
+u1_011,poem,/ˈpəʊɪm/,n.,诗,I wrote a short poem about spring.,我写了一首关于春天的小诗。,po|em,p o e m,write a poem (写诗)|short poem (短诗)|love poem (情诗)
+u1_012,single,/ˈsɪŋɡəl/,adj.,单一的，独身的；n. 单曲，单人房,I want a single scoop of ice cream.,我想要一勺冰淇淋。,sin|gle,s i n g l e,想象你只有一个手指头(single finger)指着一样东 西。
+u1_013,stroke,/strəʊk/,n.,游泳划水动作；轻抚；v. 轻抚,One strong stroke and he swam forward.,一个有力的划水动作，他向前游去。,stroke,str o k e,stroke of luck (好运)|heat stroke (中暑)|stroke someone's ego (满足某人的自尊心)
+u1_014,give up,/ɡɪv ʌp/,v.,放弃,Don't give up! I believe you can do it.,不要放弃！我相信你能做到的。,,,give up smoking (戒烟)|give up hope (放弃希望)|never give up (永不放弃)
+u1_015,ink,/ɪŋk/,n.,墨水,My pen has blue ink.,我的钢笔里是蓝色墨水。,ink,i nk,black ink (黑色墨水)|ink pen (钢笔)|ink cartridge (墨盒)
+u1_016,return,/rɪˈtɜːn/,v.,返回；归还；n. 返回,Please return the book to the library.,请把书还回图书馆。,re|turn,r e t ur n,return home (回家)|return a favor (回报恩情)|return policy (退货政策)
+u1_017,in return,/ɪn rɪˈtɜːn/,phrase.,作为回报，作为交换,"She helped me, and in return, I helped her.",她帮助了我，作为回报，我帮助了她。,,,in (在…里) + return (返回) = 回报。
+u1_018,deal,/diːl/,v.,处理；交易 / n. 交易，协议,Let's deal the cards and start the game.,我们发牌开始游戏吧。,deal,d ea l,deal with (处理)|big deal (了不起的事)|make a deal (达成协议)
+u1_019,manage,/ˈmænɪdʒ/,v.,管理；设法完成,My sister can manage her homework and piano lessons.,我姐姐能安排好作业和钢琴课。,man|age,m a n a g e,manage to do (设法做到)|manage risk (管理风 险)|manage expectations (管理预期)
+u1_020,get into,/ɡɛt ˈɪntuː/,phr.,进入，卷入；对…感兴趣,Let's get into the car now.,我们现在上车吧。,,,get (得到) + into (进入) = 进入。
+u1_021,give it a go,/ɡɪv ɪt ə ɡəʊ/,phrase.,尝试一下,"I'm not sure if I can do it, but I'll give it a go.",我不确定我是否能做到，但我会尝试一下。,,,give (给) + it (它) + a go (一次尝试) = 尝试一下。
+u1_022,kung fu,/ˌkʌŋ ˈfuː/,n.,功夫，中国武术,My brother is learning kung fu.,我的哥哥正在学习中国功夫。,,,kung fu master (功夫大师)|learn kung fu (学习功 夫)|practice kung fu (练习功夫)
+u1_023,push,/pʊʃ/,v.,推,Push the door to go inside.,把门推开走进去。,push,p u sh,push the button (按按钮)|push forward (推进)|push one's luck (冒险)
+u1_024,myself,/maɪˈself/,,,I can tie my shoes by myself.,我自己会系鞋带。,my|self,m y s e l f,by myself (独自)|hurt myself (伤到自己)|believe in myself (相信自己)
+u1_025,once in a while,/wʌns ɪn ə waɪl/,phrase.,偶尔，有时,I eat ice cream once in a while.,我偶尔吃冰淇淋。,,,once (一次) + in a while (在一段时间里) = 偶尔。
+u1_026,chat,/tʃæt/,v.,& n. 聊天,Let’s chat about our favorite cartoons.,我们来聊聊最喜欢的动画片吧。,chat,ch a t,online chat (在线聊天)|live chat (实时聊天)|have a chat (闲聊)
+u1_027,outing,/ˈaʊtɪŋ/,n.,短途旅行，远足,We had a family outing to the park.,我们全家去公园进行了一次短途旅行。,out|ing,ou t i ng,family outing (家庭郊游)|school outing (学校郊 游)|go on an outing (去郊游)
+u1_028,go on an outing,/ɡəʊ ɒn æn ˈaʊtɪŋ/,phrase.,去郊游，去远足,We will go on an outing to the park next week.,我们下周要去公园郊游。,,,go (去) + on an outing (一次外出) = 去郊游。
+u1_029,reduce,/rɪˈdjuːs/,v.,减少，降低,Turn off the lights to reduce electricity use.,关灯可以减少用电。,re|duce,r e d u c,reduce costs (降低成本)|reduce pollution (减少污 染)|reduce stress (减轻压力)
+u1_030,stress,/stres/,n.,压力；v. 使紧张,Too much homework gives me stress.,太多作业让我有压力。,stress,str e ss,job stress (工作压力)|financial stress (经济压 力)|stress management (压力管理)
+u1_031,yoga,/ˈjəʊɡə/,n.,瑜伽,Mom does yoga every morning.,妈妈每天早上做瑜伽。,yo|ga,y o g a,yoga class (瑜伽课)|practice yoga (练习瑜伽)|yoga pose (瑜伽姿势)
+u1_032,object,/ˈɒbdʒɪkt/,n.,物体；目标 v. 反对,This round object is a ball.,这个圆形的物体是球。,ob|ject,o b j e c t,object to (反对)|object lesson (实物教材)|inanimate object (无生命物体)
+u1_033,Italian,/ɪˈtæliən/,adj.,意大利的，意大利人的；n. 意大利人，意大利,Pizza is a famous Italian food.,披萨是一种著名的意大利食物。,I|tal|ian,I t a li a n,意大利(Italy)的人就是Italian。
+u1_034,programmer,/ˈprəʊɡræmə(r)/,n.,程序员,My dad is a computer programmer.,我爸爸是一名电脑程序员。,,,program (程序) + -er (表示人) = 程序员。
+u1_035,allow,/əˈlaʊ/,v.,允许,Mom allows me to play after homework.,妈妈允许我做完作业再玩。,al|low,a ll ow,allow access (允许访问)|allow time (留出时间)|allow for (考虑到)
+u1_036,sense,/sens/,n.,感觉；意义；v. 感觉到,Dogs have a good sense of smell.,狗的嗅觉很好。,sense,s e n s e,common sense (常识)|sense of humor (幽默感)|make sense (有道理)
+u1_037,achievement,/əˈtʃiːvmənt/,n.,成就；成绩,Getting an A is a big achievement for me.,得A对我来说是个大成就。,a|chieve|ment,a ch ie v e,great achievement (巨大成就)|academic achievement (学业成就)|sense of achievement (成就感)
+u1_038,coin,/kɔɪn/,n.,硬币；v. 创造（新词）,I found a shiny coin on the ground.,我在地上捡到一枚闪亮的硬币。,coin,c oi n,coin a phrase (创造新词)|two sides of the same coin (一体两面)|counterfeit coin (伪币)
+u1_039,stamp,/stæmp/,n.,邮票；v. 盖章,Put a stamp on the envelope.,在信封上贴一张邮票。,stamp,st a mp,postage stamp (邮票)|rubber stamp (橡皮图章)|stamp out (消除)
+u1_040,teenage,/ˈtiːneɪdʒ/,adj.,青少年的,My teenage sister loves pop music.,我十几岁的姐姐喜欢流行音乐。,teen|age,t ee n a g e,teenage years (青少年时期)|teenage pregnancy (少女怀孕)|teenage angst (青少年焦虑)
+u1_041,postcard,/ˈpəʊstkɑːd/,n.,明信片,I sent a postcard from the beach.,我从海滩寄了一张明信片。,post|card,p o st c ar d,send a postcard (寄明信片)|vintage postcard (老 式明信片)|souvenir postcard (纪念明信片)
+u1_042,rather,/ˈrɑːðə/,adv.,相当；宁愿,It's rather hot today.,今天相当热。,rath|er,r a th er,rather than (而不是)|would rather (宁愿)|rather good (相当好)
+u1_043,old - fashioned,/ˌəʊld ˈfæʃənd/,adj.,老式的，过时的,My grandpa wears old-fashioned clothes.,我爷爷穿老式的衣服。,,,old (旧的) + fashioned (时尚的) = 旧时尚的，也就 是老式的。
+u1_044,foreign,/ˈfɒrən/,adj.,外国的,We learn foreign words in English class.,我们在英语课上学外国单词。,for|eign,f o r ei g,foreign language (外语)|foreign country (外国)|foreign policy (外交政策)
+u1_045,dream of,/driːm əv/,v.,梦想，渴望,I dream of becoming a great painter.,我梦想成为一名伟大的画家。,,,dream of success (梦想成功)|dream of traveling (梦想旅行)|dream of a better future (梦想更美好的 未来)
+u1_046,suggestion,/səˈdʒestʃən/,n.,建议，提议,My teacher gave me a good suggestion for reading.,老师给了我一个阅读的好建议。,sug|ges|tion,s u gg e s ti o n,make a suggestion (提出建议)|accept a suggestion (接受建议)|follow a suggestion (遵循 建议)
+u1_047,failure,/ˈfeɪljə(r)/,n.,失败,Every failure is a step to success.,每一次失败都是通向成功的一步。,fail|ure,f ai l ure,complete failure (彻底失败)|business failure (商业 失败)|fear of failure (害怕失败)
+u1_048,inspire,/ɪnˈspaɪə/,v.,鼓舞；激发灵感,My teacher’s words inspire me to study hard.,老师的话鼓舞我努力学习。,in|spire,i n sp ir e,inspire confidence (激发信心)|inspire creativity (激发创造力)|inspire hope (激发希望)
+u1_049,strict,/strɪkt/,adj.,严格的,Our teacher is strict about homework.,我们的老师对作业要求严格。,strict,str i ct,strict rules (严格的规定)|strict parents (严格的父 母)|strict diet (严格的饮食)
+u1_050,surprisingly,/səˈpraɪzɪŋli/,adv.,出乎意料地,"Surprisingly, the small boy won the race.",出乎意料地，小男孩赢得了比赛。,sur|pris|ing|ly,s ur pr i s ing l y,surprisingly good (出奇的好)|surprisingly effective (出奇的有效)|surprisingly little (出奇的 少)
+u1_051,so far,/səʊ fɑː(r)/,phrase.,到目前为止,"So far, I have finished two books.",到目前为止，我已经读完两本书了。,,,so (如此) + far (远) = 像走了很远，到现在为止。
+u1_052,stage,/steɪdʒ/,n.,舞台；阶段,I sing on the school stage.,我在学校舞台上唱歌。,stage,st a g e,on stage (在舞台上)|stage fright (怯场)|set the stage (准备就绪)
+u1_053,importantly,/ɪmˈpɔːtəntli/,adv.,重要地；尤其,"Most importantly, wash your hands before eating.",最重要的是，吃饭前要洗手。,im|por|tant|ly,i m p or t a nt l y,"more importantly (更重要的是)|most importantly (最重要的是)|importantly, consider (重要的是，考 虑)"
