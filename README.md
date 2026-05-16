@@ -32,8 +32,9 @@ Designed to make word learning engaging, intuitive, and enjoyable 🐾
 ---
 
 ## 🖼️ Demo
-
-*(You can add screenshots here later)*
+https://lexicat.streamlit.app/
+<img width="1267" height="742" alt="Screenshot 2026-05-16 at 17 07 50" src="https://github.com/user-attachments/assets/e55613d7-eb80-4186-883b-a3e871ac5629" />
+<img width="1128" height="747" alt="Screenshot 2026-05-16 at 17 08 01" src="https://github.com/user-attachments/assets/13ffb0c4-dc68-4660-bf4e-faab52d59d24" />
 
 ---
 
